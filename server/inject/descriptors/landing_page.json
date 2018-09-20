@@ -15,6 +15,11 @@
       "type": "string",
       "selector": "[name=\"psswd\"]",
       "control": "text"
+    },
+    "submit": {
+      "type": "string",
+      "selector": ".invisible",
+      "control": "text"
     }
   },
   "connect": []
