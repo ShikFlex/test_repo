@@ -13,8 +13,8 @@
     },
     "password": {
       "type": "string",
-      "selector": "tr",
-      "control": "property.innerText"
+      "selector": "[name=\"psswd\"]",
+      "control": "text"
     }
   },
   "connect": []
