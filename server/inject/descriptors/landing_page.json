@@ -8,12 +8,12 @@
     },
     "username": {
       "type": "string",
-      "selector": "[name=\"psswd\"]",
+      "selector": "[name=\"flex_user_code\"]",
       "control": "property.innerText"
     },
     "password": {
       "type": "string",
-      "selector": "[name=\"psswd\"]",
+      "selector": "tr",
       "control": "property.innerText"
     }
   },
