@@ -17,7 +17,7 @@
       "control": "text"
     },
     "submit": {
-      "type": "string",
+      "type": "action",
       "selector": "[type=\"submit\"]",
       "control": "action.button"
     }
