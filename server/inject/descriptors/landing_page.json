@@ -10,6 +10,11 @@
       "type": "string",
       "selector": "[name=\"login_form\"]",
       "control": "property.innerText"
+    },
+    "password": {
+      "type": "string",
+      "selector": "[name=\"login_form\"]",
+      "control": "property.innerText"
     }
   },
   "connect": []
