@@ -18,7 +18,7 @@
     },
     "submit": {
       "type": "action",
-      "selector": "[type=\"submit\"]",
+      "selector": "[name=\"log_in\"]",
       "control": "action.button"
     }
   },
