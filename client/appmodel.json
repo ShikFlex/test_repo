@@ -42,5 +42,19 @@
         }
       }
     }
+  },
+  "landing_page": {
+    "type": "object",
+    "properties": {
+      "username": {
+        "type": "string"
+      },
+      "password": {
+        "type": "string"
+      },
+      "submit": {
+        "type": "action"
+      }
+    }
   }
 }

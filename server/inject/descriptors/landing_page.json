@@ -22,5 +22,14 @@
       "control": "action.button"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "is_landing_page"
+      ],
+      "screens": [
+        "loginclassic"
+      ]
+    }
+  ]
 }
