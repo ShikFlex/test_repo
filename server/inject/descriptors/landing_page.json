@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": "[name=\"login_form\"]",
       "control": "exists"
+    },
+    "username": {
+      "type": "string",
+      "selector": "[name=\"login_form\"]",
+      "control": "property.innerText"
     }
   },
   "connect": []
