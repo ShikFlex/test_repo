@@ -19,7 +19,7 @@
     "submit": {
       "type": "string",
       "selector": "[type=\"submit\"]",
-      "control": "text"
+      "control": "action.button"
     }
   },
   "connect": []
