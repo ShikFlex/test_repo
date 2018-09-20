@@ -8,7 +8,7 @@
     },
     "username": {
       "type": "string",
-      "selector": "[name=\"login_form\"]",
+      "selector": "[name=\"psswd\"]",
       "control": "property.innerText"
     },
     "password": {
