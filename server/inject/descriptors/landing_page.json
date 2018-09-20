@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "is_landing_page": {
+      "type": "identifier",
+      "selector": "[name=\"login_form\"]",
+      "control": "exists"
+    }
+  },
+  "connect": []
+}
