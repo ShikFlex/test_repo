@@ -18,7 +18,7 @@
     },
     "submit": {
       "type": "string",
-      "selector": ".invisible",
+      "selector": "[type=\"submit\"]",
       "control": "text"
     }
   },
