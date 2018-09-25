@@ -42,5 +42,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.tableviewadvancedcaptivating', {
+        views: {
+            app: {
+                controller: 'app_tableviewadvancedcaptivating',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.tableviewadvancedcaptivating');
+                }
+            }
+        }
     });
 });

@@ -27,6 +27,13 @@
       "sourceScreenId": "app.login.loginclassic",
       "sourceAppId": "universaltemplates",
       "model": "landing_page"
+    },
+    {
+      "id": "tableviewadvancedcaptivating",
+      "name": "TableView Advanced-Captivating",
+      "sourceScreenId": "app.tableviewadvanced.tableviewadvancedcaptivating",
+      "sourceAppId": "universaltemplates",
+      "model": "tableviewadvancedcaptivating"
     }
   ],
   "sourceAppId": "_blank",
