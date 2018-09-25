@@ -5,6 +5,11 @@
       "type": "string",
       "selector": "#monitor",
       "control": "exists"
+    },
+    "monitoring_layer_data": {
+      "type": "string",
+      "selector": "#monitor",
+      "control": "property.innerText"
     }
   },
   "connect": []
