@@ -109,5 +109,16 @@
         }
       }
     }
+  },
+  "monitoring_layer": {
+    "type": "object",
+    "properties": {
+      "is_monitor": {
+        "type": "string"
+      },
+      "monitoring_layer_data": {
+        "type": "string"
+      }
+    }
   }
 }

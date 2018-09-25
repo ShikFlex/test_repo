@@ -33,7 +33,7 @@
       "name": "monitoring_layer",
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedcaptivating",
       "sourceAppId": "universaltemplates",
-      "model": "tableviewadvancedcaptivating"
+      "model": "monitoring_layer"
     }
   ],
   "sourceAppId": "_blank",
