@@ -29,8 +29,8 @@
       "model": "landing_page"
     },
     {
-      "id": "tableviewadvancedcaptivating",
-      "name": "TableView Advanced-Captivating",
+      "id": "monitoring_layer",
+      "name": "monitoring_layer",
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedcaptivating",
       "sourceAppId": "universaltemplates",
       "model": "tableviewadvancedcaptivating"

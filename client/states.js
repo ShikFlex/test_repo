@@ -42,12 +42,12 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.tableviewadvancedcaptivating', {
+    }).state('app.monitoring_layer', {
         views: {
             app: {
-                controller: 'app_tableviewadvancedcaptivating',
+                controller: 'app_monitoring_layer',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.tableviewadvancedcaptivating');
+                    return app.templateProvider('app.monitoring_layer');
                 }
             }
         }
