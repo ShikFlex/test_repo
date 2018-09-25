@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "is_monitor": {
+      "type": "string",
+      "selector": "#monitor",
+      "control": "exists"
+    }
+  },
+  "connect": []
+}
