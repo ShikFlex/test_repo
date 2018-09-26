@@ -36,8 +36,8 @@
       "model": "main_page"
     },
     {
-      "id": "blank1",
-      "name": "BLANK1",
+      "id": "monitoring_page",
+      "name": "monitoring_page",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
     }
