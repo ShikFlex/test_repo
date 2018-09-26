@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": "#logged",
       "control": "exists"
+    },
+    "monitoring_btn": {
+      "type": "string",
+      "selector": "#logged",
+      "control": "property.innerHTML"
     }
   },
   "connect": [
