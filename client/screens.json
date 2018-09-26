@@ -39,7 +39,8 @@
       "id": "monitoring_page",
       "name": "monitoring_page",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "monitoring_layer"
     }
   ],
   "sourceAppId": "_blank",

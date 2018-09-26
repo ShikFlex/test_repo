@@ -137,5 +137,13 @@
   "main_page": {
     "type": "object",
     "properties": {}
+  },
+  "monitoring_layer": {
+    "type": "object",
+    "properties": {
+      "monitoring_layer_data": {
+        "type": "string"
+      }
+    }
   }
 }
