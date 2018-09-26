@@ -27,13 +27,6 @@
       "sourceScreenId": "app.login.loginclassic",
       "sourceAppId": "universaltemplates",
       "model": "landing_page"
-    },
-    {
-      "id": "monitoring_layer",
-      "name": "monitoring_layer",
-      "sourceScreenId": "app.tableviewadvanced.tableviewadvancedcaptivating",
-      "sourceAppId": "universaltemplates",
-      "model": "monitoring_layer"
     }
   ],
   "sourceAppId": "_blank",
