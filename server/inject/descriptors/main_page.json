@@ -5,21 +5,7 @@
       "type": "identifier",
       "selector": "#logged",
       "control": "exists"
-    },
-    "monitoring_btn": {
-      "type": "action",
-      "selector": "#logged",
-      "control": "property.innerHTML"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "is_main"
-      ],
-      "screens": [
-        "homecool"
-      ]
-    }
-  ]
+  "connect": []
 }
