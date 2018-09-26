@@ -8,7 +8,7 @@
     },
     "monitoring_layer_data": {
       "type": "string",
-      "selector": "h2",
+      "selector": "#monitor",
       "control": "property.innerText",
       "selectContains": "Replicas"
     }
