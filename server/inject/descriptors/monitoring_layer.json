@@ -2,7 +2,7 @@
   "type": "object",
   "properties": {
     "is_monitor": {
-      "type": "string",
+      "type": "identifier",
       "selector": "#monitor",
       "control": "exists"
     },
