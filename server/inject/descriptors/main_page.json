@@ -7,7 +7,7 @@
       "control": "exists"
     },
     "monitoring_btn": {
-      "type": "string",
+      "type": "action",
       "selector": "#logged",
       "control": "property.innerHTML"
     }
