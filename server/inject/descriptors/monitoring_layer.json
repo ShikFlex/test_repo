@@ -12,12 +12,5 @@
       "control": "property.innerText"
     }
   },
-  "connect": [
-    {
-      "match": [],
-      "screens": [
-        "monitoring_layer"
-      ]
-    }
-  ]
+  "connect": []
 }
