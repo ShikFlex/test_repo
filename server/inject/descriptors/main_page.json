@@ -2,9 +2,9 @@
   "type": "object",
   "properties": {
     "is_main": {
-      "type": "string",
-      "selector": "body",
-      "control": "property.innerText"
+      "type": "identifier",
+      "selector": "#logged",
+      "control": "exists"
     }
   },
   "connect": []
