@@ -42,5 +42,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.homecool', {
+        views: {
+            app: {
+                controller: 'app_homecool',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.homecool');
+                }
+            }
+        }
     });
 });
