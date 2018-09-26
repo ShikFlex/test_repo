@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "422274a9",
   "uiCommonVersion": "5.2.20",
-  "creatorId": "migshyac"
+  "creatorId": "migshyac",
+  "id": "test_repo_2",
+  "previewImageURL": "/previews/422274a9-test_repo_2/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/ShikFlex/test_repo",
+  "creatorName": "Shikma Yacobson",
+  "sdks": []
 }
