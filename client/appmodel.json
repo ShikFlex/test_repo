@@ -133,5 +133,9 @@
         "type": "action"
       }
     }
+  },
+  "main_page": {
+    "type": "object",
+    "properties": {}
   }
 }
